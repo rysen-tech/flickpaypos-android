@@ -1,7 +1,0 @@
-{
-  "versionCode": 148,
-  "versionName": "1.3.18",
-  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.3.18/FlickpayPOS-Android.apk",
-  "sha256": "16863efcfc76227609949eced65a60929650ba76b55e9e5ad669dcf1d7bf89a0",
-  "notes": "Added print orientation switch (normal/reversed) in Print Settings."
-}
