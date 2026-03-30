@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navGeneral"
+        android:icon="@drawable/ic_settings_general"
+        android:title="@string/general_settings_title" />
+    <item
+        android:id="@+id/navPrint"
+        android:icon="@drawable/ic_settings_print"
+        android:title="@string/print_settings_title" />
+</menu>
