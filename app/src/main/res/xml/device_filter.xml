@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Standard USB printer class -->
+    <usb-device class="7" />
+
+    <!-- Common thermal printer vendors (covers many vendor-class implementations) -->
+    <usb-device vendor-id="1208" /> <!-- Epson -->
+    <usb-device vendor-id="1305" /> <!-- Star Micronics -->
+    <usb-device vendor-id="5380" /> <!-- Bixolon -->
+    <usb-device vendor-id="1046" /> <!-- Citizen -->
+    <usb-device vendor-id="10467" /> <!-- Xprinter (common) -->
+    <usb-device vendor-id="1155" /> <!-- STM/Xprinter-family devices in field -->
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <!-- Dependency upgrades are pinned to toolchain compatibility (AGP/compileSdk). -->
+    <issue id="GradleDependency" severity="ignore" />
+    <!-- Settings is an intentionally rich control surface in one activity. -->
+    <issue id="TooManyViews" severity="ignore" />
+</lint>
