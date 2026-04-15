@@ -327,7 +327,7 @@
                             android:layout_marginTop="14dp"
                             android:fontFamily="sans-serif-medium"
                             android:textColor="@color/fp_settings_text"
-                            android:textSize="14sp" />
+                            android:textSize="18sp" />
 
                         <com.google.android.material.slider.Slider
                             android:id="@+id/customerDisplayZoomSlider"

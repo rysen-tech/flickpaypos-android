@@ -1,7 +1,7 @@
 {
-  "versionCode": 189,
-  "versionName": "1.4.3",
-  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.3/FlickpayPOS-Android.apk",
-  "sha256": "6b71430150bf8cfe365b980d7157a03fcdf50f36ada3594c7458b0cd48a89b8b",
-  "notes": "Maintenance build with kiosk and POS stability updates."
+  "versionCode": 190,
+  "versionName": "1.4.4",
+  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.4/FlickpayPOS-Android.apk",
+  "sha256": "d0fda31510ae408778171340bb9d64b9cc8c6eca8b9503f61a950df7969f43b2",
+  "notes": "UI polish: Customer Display Zoom title now matches primary settings title style."
 }
