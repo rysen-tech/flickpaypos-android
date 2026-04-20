@@ -1,7 +1,7 @@
 {
-  "versionCode": 190,
-  "versionName": "1.4.4",
-  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.4/FlickpayPOS-Android.apk",
-  "sha256": "d0fda31510ae408778171340bb9d64b9cc8c6eca8b9503f61a950df7969f43b2",
-  "notes": "UI polish: Customer Display Zoom title now matches primary settings title style."
+  "versionCode": 198,
+  "versionName": "1.4.12",
+  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.12/FlickpayPOS-Android.apk",
+  "sha256": "bc355a8bec109899d622d065b05d6b0bee25341583e636e1d9072ef939bb75e2",
+  "notes": "Customer display offline now serves a local translation fallback so native Odoo customer screen can boot without internet."
 }
