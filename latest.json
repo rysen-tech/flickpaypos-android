@@ -1,7 +1,7 @@
 {
-  "versionCode": 198,
-  "versionName": "1.4.12",
-  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.12/FlickpayPOS-Android.apk",
-  "sha256": "bc355a8bec109899d622d065b05d6b0bee25341583e636e1d9072ef939bb75e2",
-  "notes": "Customer display offline now serves a local translation fallback so native Odoo customer screen can boot without internet."
+  "version": "1.4.14",
+  "versionCode": 199,
+  "notes": "Customer display offline reliability hardening (main-frame/cache fallback + translation fallback robustness).",
+  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.14/FlickpayPOS-Android.apk",
+  "sha256": "7268013043f015c43ff9689ab736151bbb272f843cfc525ad3c9213edca0f945"
 }
