@@ -1,8 +1,8 @@
 {
-  "version": "1.4.14",
-  "versionCode": 199,
-  "notes": "Customer display offline reliability hardening (main-frame/cache fallback + translation fallback robustness).",
-  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.14/FlickpayPOS-Android.apk",
-  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.14/FlickpayPOS-Android.apk",
-  "sha256": "7268013043f015c43ff9689ab736151bbb272f843cfc525ad3c9213edca0f945"
+  "version": "1.4.15",
+  "versionCode": 200,
+  "notes": "Customer display offline fix: service-worker-level translation fallback and websocket bundle bypass.",
+  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.15/FlickpayPOS-Android.apk",
+  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.15/FlickpayPOS-Android.apk",
+  "sha256": "902b43936626a5f3a6e838b4133200ecd6c075e92b4f7799b5341ddaddefa642"
 }
