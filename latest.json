@@ -1,8 +1,8 @@
 {
-  "version": "1.4.20",
-  "versionCode": 205,
-  "notes": "Updater reliability hotfix: if GitHub tag download returns 404, app now automatically retries releases/latest/download asset path. Also improved update status handling and manifest compatibility.",
-  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.20/FlickpayPOS-Android.apk",
-  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.20/FlickpayPOS-Android.apk",
-  "sha256": "2ae338077ab9f6de4684ee197af0b6cae6d3c6d650632c01e139778211933ad6"
+  "version": "1.4.21",
+  "versionCode": 206,
+  "notes": "Performance update: faster open/close transitions for native Settings and deferred printer discovery to reduce initial settings launch delay.",
+  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.21/FlickpayPOS-Android.apk",
+  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.21/FlickpayPOS-Android.apk",
+  "sha256": "e547bbd4b9e0f52d5855d6597b67dfdd12c4bcdcd6e8836fe9ade8fc1e56689a"
 }
