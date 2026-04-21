@@ -1,8 +1,8 @@
 {
-  "version": "1.4.17",
-  "versionCode": 202,
-  "notes": "Customer display hotfix: stabilize background image rendering across repeated app relaunches and retry failed background probes.",
-  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.17/FlickpayPOS-Android.apk",
-  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.17/FlickpayPOS-Android.apk",
-  "sha256": "c364ad594725d5bef5177a1b0d0f3a0cc7c94e2fdf317fe5c7ab42944393a962"
+  "version": "1.4.18",
+  "versionCode": 203,
+  "notes": "Diagnostics update: Send Logs now includes detailed runtime + process logcat traces to investigate customer display background stability issues.",
+  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.18/FlickpayPOS-Android.apk",
+  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.18/FlickpayPOS-Android.apk",
+  "sha256": "c29e56bec3c02f11b2c71e51b54adab9986e763ff357de00d24208b2bef7cdfa"
 }
