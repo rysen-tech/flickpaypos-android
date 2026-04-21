@@ -1,8 +1,8 @@
 {
-  "version": "1.4.21",
-  "versionCode": 206,
-  "notes": "Performance update: faster open/close transitions for native Settings and deferred printer discovery to reduce initial settings launch delay.",
-  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.21/FlickpayPOS-Android.apk",
-  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.21/FlickpayPOS-Android.apk",
-  "sha256": "e547bbd4b9e0f52d5855d6597b67dfdd12c4bcdcd6e8836fe9ade8fc1e56689a"
+  "version": "1.4.22",
+  "versionCode": 207,
+  "notes": "Performance update: faster POS responsiveness on Android with reduced UI/logging overhead and optimized product-card rendering.",
+  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.22/FlickpayPOS-Android.apk",
+  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.22/FlickpayPOS-Android.apk",
+  "sha256": "0cf56a6c61c6efb52ac46376111e4926c7395cf83dc0703ba08ade593bfef196"
 }
