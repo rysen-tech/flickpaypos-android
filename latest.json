@@ -1,8 +1,8 @@
 {
-  "version": "1.4.16",
-  "versionCode": 201,
-  "notes": "Customer display stability update: hardened background rendering and automatic reconnect re-sync.",
-  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.16/FlickpayPOS-Android.apk",
-  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.16/FlickpayPOS-Android.apk",
-  "sha256": "e6b30318e6f854af1e51c9dbc303d53572af9257313b6bc50951e40f5cbf16f0"
+  "version": "1.4.17",
+  "versionCode": 202,
+  "notes": "Customer display hotfix: stabilize background image rendering across repeated app relaunches and retry failed background probes.",
+  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.17/FlickpayPOS-Android.apk",
+  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.17/FlickpayPOS-Android.apk",
+  "sha256": "c364ad594725d5bef5177a1b0d0f3a0cc7c94e2fdf317fe5c7ab42944393a962"
 }
