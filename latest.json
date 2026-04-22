@@ -1,8 +1,8 @@
 {
-  "version": "1.4.23",
-  "versionCode": 208,
-  "notes": "Maintenance release with latest POS/UI fixes and stability improvements.",
-  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.23/FlickpayPOS-Android.apk",
-  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.23/FlickpayPOS-Android.apk",
-  "sha256": "337fae73b0dbca09c9aba44470367c9c7c61a1c9f9bc848c45d11c66e5e5ee50"
+  "version": "1.4.24",
+  "versionCode": 209,
+  "notes": "Startup responsiveness update with splash timeout and launch timing diagnostics.",
+  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.24/FlickpayPOS-Android.apk",
+  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.24/FlickpayPOS-Android.apk",
+  "sha256": "58c7113edb0d69037697742e66be60b56838a0ec90a6b68a08b2998d3e6fcda7"
 }
