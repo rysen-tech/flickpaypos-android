@@ -1,8 +1,8 @@
 {
-  "version": "1.4.25",
-  "versionCode": 210,
-  "notes": "Android-native POS receipt rendering moved into the app (Android-only), with Electron flow unchanged.",
-  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.25/FlickpayPOS-Android.apk",
-  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.25/FlickpayPOS-Android.apk",
-  "sha256": "e08424f623a1ff020c58d8606c67b1bd3e82cc40a94ccc8e78340b4e0aff1d42"
+  "version": "1.4.26",
+  "versionCode": 211,
+  "notes": "Android native receipt update: amount alignment shifted right with overflow-safe wrapping, plus QR code rendering support for custom receipt messages.",
+  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.26/FlickpayPOS-Android.apk",
+  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.26/FlickpayPOS-Android.apk",
+  "sha256": "5ce17c477d5522afae6aa176e30de470ddf2ed1ece662fd09bc3acd4c0ac4284"
 }
