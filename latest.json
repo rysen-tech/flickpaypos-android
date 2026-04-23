@@ -1,8 +1,8 @@
 {
-  "version": "1.4.24",
-  "versionCode": 209,
-  "notes": "Startup responsiveness update with splash timeout and launch timing diagnostics.",
-  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.24/FlickpayPOS-Android.apk",
-  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.24/FlickpayPOS-Android.apk",
-  "sha256": "58c7113edb0d69037697742e66be60b56838a0ec90a6b68a08b2998d3e6fcda7"
+  "version": "1.4.25",
+  "versionCode": 210,
+  "notes": "Android-native POS receipt rendering moved into the app (Android-only), with Electron flow unchanged.",
+  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.25/FlickpayPOS-Android.apk",
+  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.25/FlickpayPOS-Android.apk",
+  "sha256": "e08424f623a1ff020c58d8606c67b1bd3e82cc40a94ccc8e78340b4e0aff1d42"
 }
