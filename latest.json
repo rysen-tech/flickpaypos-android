@@ -1,8 +1,8 @@
 {
-  "version": "1.4.27",
-  "versionCode": 212,
-  "notes": "Print latency optimization for Android POS receipts: removed status poll warmup contention and switched USB path to direct-write first with fallback prime; reduced pre-print hesitation.",
-  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.27/FlickpayPOS-Android.apk",
-  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.27/FlickpayPOS-Android.apk",
-  "sha256": "0195bb1d0d0509fbc275e2c8218211223ab408f14267c651fda84fb68103afc1"
+  "version": "1.4.28",
+  "versionCode": 213,
+  "notes": "Android native receipt update: larger QR code, AMOUNT column shifted left for better alignment, and shorter divider lines in the order lines section.",
+  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.28/FlickpayPOS-Android.apk",
+  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.28/FlickpayPOS-Android.apk",
+  "sha256": "24240a66597b1d471b1e2ec0f51b45147c1b3e02ce371a7bc76d18ff19787800"
 }
