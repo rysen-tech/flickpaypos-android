@@ -11,8 +11,8 @@ android {
         applicationId = "uk.flickpay.flickpaypos"
         minSdk = 26
         targetSdk = 35
-        versionCode = 213
-        versionName = "1.4.28"
+        versionCode = 214
+        versionName = "1.4.29"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
