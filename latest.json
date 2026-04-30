@@ -1,8 +1,8 @@
 {
-  "version": "1.4.29",
-  "versionCode": 214,
-  "notes": "Improved in-app logs responsiveness: log view now limits to recent entries and hides noisy proxy chatter for faster loading.",
-  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.29/FlickpayPOS-Android.apk",
-  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.29/FlickpayPOS-Android.apk",
-  "sha256": "fef92d5342142430c92be5ca41c4c139d85c36e9406f98221f99cca23692f939"
+  "version": "1.4.30",
+  "versionCode": 215,
+  "notes": "Reduced proxy log noise: successful /hw_proxy/status_json heartbeat polling is now suppressed in app logs.",
+  "apkUrl": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.30/FlickpayPOS-Android.apk",
+  "apk": "https://github.com/rysen-tech/flickpaypos-android/releases/download/v1.4.30/FlickpayPOS-Android.apk",
+  "sha256": "b5c6d2bf267c7e060cdabf3ca2ec1e2af5a79cceb6a269bab78b9e75e5e7b29a"
 }
